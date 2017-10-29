@@ -1,0 +1,51 @@
+
+.copyright{
+  background: #4D4D4D;
+  padding: 1em 0;
+}
+.copyright-left p{
+  color: #FFF;
+  font-size: 14px;
+  margin: .4em 0 0 0;
+}
+.copyright-left p a{
+	color:#FFF;
+}
+.copyright-left{
+	float:left;
+}
+.copyright-right{
+	float:right;
+}
+.copyright-right ul{
+	padding:0;
+	margin:0;
+}
+.copyright-right ul li{
+	display:inline-block;
+	margin:0 .5em;
+}
+.copyright-right ul li a.twitter{
+  background: url(../images/icons.png) no-repeat 0px 0px;
+  height: 24px;
+  display: block;
+  width: 24px;
+}
+.copyright-right ul li a.facebook{
+  background: url(../images/icons.png) no-repeat -33px 0px;
+}
+.copyright-right ul li a.chrome{
+  background: url(../images/icons.png) no-repeat -66px 0px;
+}
+.copyright-right ul li a.pinterest{
+  background: url(../images/icons.png) no-repeat -99px 0px;
+}
+.copyright-right ul li a.linkedin{
+  background: url(../images/icons.png) no-repeat -132px 0px;
+}
+.copyright-right ul li a.dribbble{
+  background: url(../images/icons.png) no-repeat -164px 0px;
+}
+.copyright-right ul li a.twitter:hover {
+  opacity: 0.5;
+}
