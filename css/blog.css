@@ -3,7 +3,10 @@
  */
 
 body {
-
+background: url(https://img2018.cnblogs.com/blog/806432/201911/806432-20191120103412785-1735508991.jpg);
+background-size: cover;
+background-position: center;
+background-attachment:fixed;
 }
 
 h1, .h1,
